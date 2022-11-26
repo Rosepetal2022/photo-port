@@ -17,19 +17,19 @@ exports[`Gallery is rendering matches snapshot 1`] = `
       >
         <img
           alt="Cat green eyes"
-          class="img-thumbnaim mx-1"
+          class="img-thumbnail mx-1"
         />
         <img
           alt="Green parrot"
-          class="img-thumbnaim mx-1"
+          class="img-thumbnail mx-1"
         />
         <img
           alt="Yellow macaw"
-          class="img-thumbnaim mx-1"
+          class="img-thumbnail mx-1"
         />
         <img
           alt="Pug smile"
-          class="img-thumbnaim mx-1"
+          class="img-thumbnail mx-1"
         />
       </div>
     </div>
